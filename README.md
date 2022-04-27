@@ -11,7 +11,7 @@ In this repository you can find the class implemetantion of [Image Cluster](http
 Input data must be an image with 3 channels in RGB format. 
 
 ### Output data
-The 1-channel mask with the same shape will be returned using method predict.
+The mask with the same shape will be returned using method predict. Each element in mask represents the cluster label of a current pixel.
 
 ### Initialization parameters
 ```python
