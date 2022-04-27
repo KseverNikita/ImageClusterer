@@ -2,7 +2,7 @@
 Clustering of the rainbow image.
 
 ## Repository structure
-In this repository you can find class implemetantion of image clusterer [Image Cluster](https://github.com/KseverNikita/ImageClusterer/blob/main/ImageCluster.py), notebook with examples of using and with experiments [Experiments](https://github.com/KseverNikita/ImageClusterer/blob/main/ImageClusterer.ipynb) and [rainbow image](https://github.com/KseverNikita/ImageClusterer/blob/main/rainbow.png).
+In this repository you can find class implemetantion of [Image Cluster](https://github.com/KseverNikita/ImageClusterer/blob/main/ImageCluster.py), notebook with examples of using and with [Experiments](https://github.com/KseverNikita/ImageClusterer/blob/main/ImageClusterer.ipynb) and [rainbow image](https://github.com/KseverNikita/ImageClusterer/blob/main/rainbow.png).
 
 
 ## Class description 
